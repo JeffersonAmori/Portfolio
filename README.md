@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 ## List Freak
 
